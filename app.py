@@ -52,6 +52,3 @@ if st.button('Dự đoán'):
         st.write(f'Predicted Sentiment: {predicted_sentiment}')
     else:
         st.write('Vui lòng nhập văn bản để dự đoán.')
-        
-import matplotlib.pyplot as plt
-import seaborn as sns
